@@ -1,0 +1,5 @@
+build/*
+dist/*
+*.rar
+*.spec
+README.md
