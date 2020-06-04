@@ -2,7 +2,6 @@ build/*
 dist/*
 *.rar
 *.spec
-README.md
 __pycache__/*
 *.pyc
 \
